@@ -1,0 +1,5 @@
+if getgenv().key=="白，作者修狗和阿巴巴" then
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/wev666666/IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIlllllllllllllllllllllllllllllllllllllllllllllllllllllll/main/%E7%99%BD%E8%84%9A%E6%9C%AC%E5%8A%A0%E5%AF%86%E9%A1%B5%E9%9D%A2'),true))()
+else
+    game.Players.LocalPlayer:Kick("错误的密钥")
+end
